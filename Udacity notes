@@ -1,0 +1,7 @@
+<b>Proceedural Thinking</b> <br>steps <br>1 <br>2 <br>3 <p><b>Abstract</b> 1+1=2</p> <p>similarities/generality</p>
+<b>Sytematic debugging</b> <br>problem <br>possible causes <br>potential <span>Systems Thinking - Technological Empathy</span>
+<b>Debugging</b> <br>1. Collect evidence (what makes it fail?) <br>2. Generate theory (what may have caused...) <br>3. Test <br>4. Fix
+<b>Unit 1</b> <em>Baiscs of the web</em> <br>- The web <p>Collection of HTML documents</p> <br>- HTML HyperText Markup Language <em>Hyperlinks</em> <br>urls <br>HTTP <br>Web Applications
+HyperText Markup Language <br>- text content - what you see <br>- markup - what it looks like --> <p>Tags <name>Contents</name></p> <br>- references to other documents - images, videos <br>- links to other pages
+Major Pieces <br>you <br>computer + browser <br>Internet -> HTTP -> Servers -> Internet
+<b>HTML Attributes</b> multiple attributes <br><tag ATTR="value">contents</tag> <br>Anchor - <a> <br>ex: <a href="www. .com">derp</a> <br>Attribute value Contents
