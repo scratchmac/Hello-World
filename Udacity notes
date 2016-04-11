@@ -22,3 +22,9 @@ HTML document structure<br>
 <b>content</b><br>
 </body><br>
 </html><br>
+<head><br>
+<div>title css js</div><br>
+</head><br>
+  <body><br>
+  <div>contents</div><br>
+  </body>
