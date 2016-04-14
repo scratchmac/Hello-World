@@ -1,30 +1,30 @@
-<b>Proceedural Thinking</b> <br>steps <br>1 <br>2 <br>3 <p><b>Abstract</b> 1+1=2</p> <p>similarities/generality</p>
-<b>Sytematic debugging</b> <br>problem <br>possible causes <br>potential <span>Systems Thinking - Technological Empathy</span>
-<b>Debugging</b> <br>1. Collect evidence (what makes it fail?) <br>2. Generate theory (what may have caused...) <br>3. Test <br>4. Fix
-<b>Unit 1</b> <em>Baiscs of the web</em> <br>- The web <p>Collection of HTML documents</p> <br>- HTML HyperText Markup Language <em>Hyperlinks</em> <br>urls <br>HTTP <br>Web Applications
-HyperText Markup Language <br>- text content - what you see <br>- markup - what it looks like --> <p>Tags <name>Contents</name></p> <br>- references to other documents - images, videos <br>- links to other pages
-Major Pieces <br>you <br>computer + browser <br>Internet -> HTTP -> Servers -> Internet
-<b>HTML Attributes</b> multiple attributes <br><tag> ATTR="value">contents</tag> <br>Anchor - <a> <br>ex: <a href="www. .com">derp</a> <br>Attribute value Contents
-<b>Images</b> <br><img src="url" alt="test>
-Whitespace <br>'<br>' break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)
+<b>Proceedural Thinking</b> steps 1 2 3 <p><b>Abstract</b> 1+1=2</p> <p>similarities/generality</p>
+<b>Sytematic debugging</b> problem possible causes potential <span>Systems Thinking - Technological Empathy</span>
+<b>Debugging</b> 1. Collect evidence (what makes it fail?) 2. Generate theory (what may have caused...) 3. Test 4. Fix
+<b>Unit 1</b> <em>Baiscs of the web</em> - The web <p>Collection of HTML documents</p> - HTML HyperText Markup Language <em>Hyperlinks</em> urls HTTP Web Applications
+HyperText Markup Language - text content - what you see - markup - what it looks like --> <p>Tags <name>Contents</name></p> - references to other documents - images, videos - links to other pages
+Major Pieces you, computer + browser Internet -> HTTP -> Servers -> Internet
+<b>HTML Attributes</b> multiple attributes <tag> ATTR="value">contents</tag> Anchor - <a> ex: <a href="www. .com">derp</a> Attribute value Contents
+<b>Images</b> <img src="url" alt="test">
+Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)
 <span>text</span> - inline <span class= >
-Inline - <a><span><br><img><strong>(bold)<em><br>
-<div> <div class= ><br>
-<br>text<br>
-</div> block<br>
-HTML document structure<br>
-<!DOCTYPE HTML> - doctype<br>
-<html> opening html tag<br>
-<head> metadata Javascript CSS<br>
-<p><title>Title!</title><br>
-</head><br>
-<body><br>
-<b>content</b><br>
-</body><br>
-</html><br>
-<head><br>
-<div>title css js</div><br>
-</head><br>
-  <body><br>
-  <div>contents</div><br>
+Inline - <a><span><br><img><strong>(bold)<em>
+<div> <div class= >
+text
+</div> block
+HTML document structure
+<!DOCTYPE HTML> - doctype
+<html> opening html tag
+<head> metadata Javascript CSS
+<p><title>Title!</title></p>
+</head>
+<body>
+<b>content</b>
+</body>
+</html>
+<head>
+<div>title css js</div>
+</head>
+  <body>
+  <div>contents</div>
   </body>
