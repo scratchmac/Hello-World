@@ -4,27 +4,27 @@
 <b>Unit 1</b> <em>Baiscs of the web</em> - The web <p>Collection of HTML documents</p> - HTML HyperText Markup Language <em>Hyperlinks</em> urls HTTP Web Applications
 HyperText Markup Language - text content - what you see - markup - what it looks like --> <p>Tags <name>Contents</name></p> - references to other documents - images, videos - links to other pages
 Major Pieces you, computer + browser Internet -> HTTP -> Servers -> Internet
-<b>HTML Attributes</b> multiple attributes <tag> ATTR="value">contents</tag> Anchor - <a> ex: <a href="www. .com">derp</a> Attribute value Contents
-<b>Images</b> <img src="url" alt="test">
-Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)
-<span>text</span> - inline <span class= >
-Inline - <a><span><br><img><strong>(bold)<em>
-<div> <div class= >
+<b>HTML Attributes</b> multiple attributes "<tag> ATTR="value">contents</tag>" Anchor - "<a>" ex: "<a href="www. .com">derp</a>" Attribute value Contents
+<b>Images</b> "<img src="url" alt="test">"
+Whitespace "<br>" break - inline - "<b><em><img>" <p>"<p>paragraph</p>"</p> - block (invisible box)
+"<span>text</span>" - inline "<span class= >"
+Inline - "<a><span><br><img><strong>(bold)<em>"
+"<div> <div class= >"
 text
-</div> block
+"</div>" block
 HTML document structure
-<!DOCTYPE HTML> - doctype
-<html> opening html tag
-<head> metadata Javascript CSS
-<p><title>Title!</title></p>
-</head>
-<body>
+"<!DOCTYPE HTML>" - doctype
+"<html>" opening html tag
+"<head>" metadata Javascript CSS
+"<p><title>Title!</title></p>"
+"</head>"
+"<body>"
 <b>content</b>
-</body>
-</html>
-<head>
-<div>title css js</div>
-</head>
-  <body>
-  <div>contents</div>
-  </body>
+"</body>"
+"</html>"
+"<head>"
+"<div>title css js</div>"
+"</head>"
+  "<body>"
+  "<div>contents</div>"
+  "</body>"
