@@ -40,7 +40,7 @@ HTML document structure
 <!DOCTYPE HTML> - doctype
 <html> opening html tag
 <head> metadata Javascript CSS
-<p><title>Title!</title></p>
+  <title>Title!</title>
 </head>
 <body>
 <b>content</b>
