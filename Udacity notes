@@ -29,8 +29,8 @@ Major Pieces
   computer + browser
   Internet -> HTTP -> Servers -> Internet
 <b>HTML Attributes</b> multiple attributes <tag> ATTR="value">contents</tag> Anchor - <a> ex: <a href="www. .com">derp</a> Attribute value Contents
-<b>Images</b> <img src="url" alt="test">
-Whitespace "<br>" break - inline - "<b><em><img>" <p>"<p>paragraph</p>"</p> - block (invisible box)
+<b>Images</b> <img src="url" alt="text">
+Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)
 <span>text</span> - inline <span class= >
 Inline - <a><span><br><img><strong>(bold)<em>
 <div> <div class= >
