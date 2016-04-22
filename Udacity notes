@@ -5,8 +5,7 @@
 <h1>Similarities/Generality</h1>
 <br>
 <b>Procedural Thinking:</b> steps, 1, 2, 3 <p><b>Abstract</b> 1+1=2</p>
-<b>Systematic debugging:</b> problem - possible causes - potential solution
-<b>Systems Thinking</b> - Technological Empathy
+<b>Systematic debugging:</b> problem - possible causes - potential solution <p><b>Systems Thinking</b> - Technological Empathy</p>
 
 <b>Debugging</b>
 1. Collect evidence (what makes it fail?)
@@ -20,29 +19,36 @@
   - urls
   - HTTP
   - Web Applications
-HyperText Markup Language - text content - what you see - markup - what it looks like --> <p>Tags <name>Contents</name></p> - references to other documents - images, videos - links to other pages
-Major Pieces you, computer + browser Internet -> HTTP -> Servers -> Internet
-<b>HTML Attributes</b> multiple attributes "<tag> ATTR="value">contents</tag>" Anchor - "<a>" ex: "<a href="www. .com">derp</a>" Attribute value Contents
-<b>Images</b> "<img src="url" alt="test">"
+HyperText Markup Language
+  - text content - what you see
+  - markup - what it looks like --> Tags <name>Contents</name>
+  - references to other documents - images, videos
+  - links to other pages
+Major Pieces
+  you
+  computer + browser
+  Internet -> HTTP -> Servers -> Internet
+<b>HTML Attributes</b> multiple attributes <tag> ATTR="value">contents</tag> Anchor - <a> ex: <a href="www. .com">derp</a> Attribute value Contents
+<b>Images</b> <img src="url" alt="test">
 Whitespace "<br>" break - inline - "<b><em><img>" <p>"<p>paragraph</p>"</p> - block (invisible box)
-"<span>text</span>" - inline "<span class= >"
-Inline - "<a><span><br><img><strong>(bold)<em>"
-"<div> <div class= >"
+<span>text</span> - inline <span class= >
+Inline - <a><span><br><img><strong>(bold)<em>
+<div> <div class= >
 text
-"</div>" block
+</div> block
 HTML document structure
-"<!DOCTYPE HTML>" - doctype
-"<html>" opening html tag
-"<head>" metadata Javascript CSS
-"<p><title>Title!</title></p>"
-"</head>"
-"<body>"
+<!DOCTYPE HTML> - doctype
+<html> opening html tag
+<head> metadata Javascript CSS
+<p><title>Title!</title></p>
+</head>
+<body>
 <b>content</b>
-"</body>"
-"</html>"
-"<head>"
-"<div>title css js</div>"
-"</head>"
-  "<body>"
-  "<div>contents</div>"
-  "</body>"
+</body>
+</html>
+<head>
+<div>title css js</div>
+</head>
+  <body>
+  <div>contents</div>
+  </body>
