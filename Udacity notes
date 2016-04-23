@@ -1,8 +1,9 @@
 <!DOCTYPE html>
+<html>
 <head>
   <title>Tim's Udacity Stage 0 Notes</title>
 </head>
-<br>
+<body>
 <h1>Similarities/Generality</h1>
 <br>
 <b>Procedural Thinking:</b> steps, 1, 2, 3 <p><b>Abstract</b> 1+1=2</p>
@@ -53,3 +54,5 @@ HTML document structure
   <body>
   <div>contents</div>
   </body>
+</body>
+</html>
