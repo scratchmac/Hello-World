@@ -15,27 +15,27 @@
 3. Test<br>
 4. Fix<br>
 
-<b>Unit 1</b> <em>Baiscs of the web</em><br>
+<p><b>Unit 1</b> <em>Baiscs of the web</em><br>
   - The web - Collection of HTML documents<br>
   - HTML - HyperText Markup Language - <em>Hyperlinks</em><br>
   - urls<br>
   - HTTP<br>
-  - Web Applications<br>
-HyperText Markup Language<br>
+  - Web Applications</p>
+<p>HyperText Markup Language<br>
   - text content - what you see<br>
   - markup - what it looks like --> Tags <name>Contents</name><br>
   - references to other documents - images, videos<br>
-  - links to other pages<br>
-Major Pieces<br>
+  - links to other pages</p>
+<p>Major Pieces<br>
   you<br>
   computer + browser<br>
-  Internet -> HTTP -> Servers -> Internet<br>
-<b>HTML Attributes</b> multiple attributes<br>
+  Internet -> HTTP -> Servers -> Internet</p>
+<p><b>HTML Attributes</b> multiple attributes<br>
   <tag ATTR="value">contents</tag><br>
   Anchor - <a><br>
   ex: <a href="www. .com">derp</a><br>
-      Attribute  value  Contents<br>
-<b>Images</b> <img src="url" alt="text">
+      Attribute  value  Contents</p>
+<p><b>Images</b> <img src="url" alt="text">
 Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)
 <span>text</span> - inline <span class= >
 Inline - <a><span><br><img><strong>(bold)<em>
@@ -57,6 +57,6 @@ HTML document structure
 </head>
   <body>
   <div>contents</div>
-  </body>
+  </body></p>
 </body>
 </html>
