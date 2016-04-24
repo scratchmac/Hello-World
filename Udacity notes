@@ -5,7 +5,6 @@
 </head>
 <body>
 <h1>Similarities/Generality</h1>
-<br>
 <b>Procedural Thinking:</b> steps, 1, 2, 3 <p><b>Abstract</b> 1+1=2</p>
 <b>Systematic debugging:</b> problem - possible causes - potential solution <p><b>Systems Thinking</b> - Technological Empathy</p>
 
@@ -21,28 +20,36 @@
   - urls<br>
   - HTTP<br>
   - Web Applications</p>
+  
 <p>HyperText Markup Language<br>
   - text content - what you see<br>
   - markup - what it looks like --> Tags <name>Contents</name><br>
   - references to other documents - images, videos<br>
   - links to other pages</p>
+  
 <p>Major Pieces<br>
   - you<br>
   - computer + browser<br>
   - Internet -> HTTP -> Servers -> Internet</p>
+  
 <p><b>HTML Attributes</b> multiple attributes<br>
   <tag ATTR="value">contents</tag><br>
   Anchor - <a><br>
   ex: <a href="www. .com">derp</a><br>
       Attribute  value  Contents</p>
+      
 <p><b>Images</b> <img src="url" alt="text"> <-void tag</p>
+
 <p>Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)</p>
+
 <span>text</span> - inline <span class= ><br>
+
 Inline - <a><span><br><img><strong>(bold)<em>
 <p><div> <div class= >
 text
 </div> block</p>
-HTML document structure
+
+<p>HTML document structure
 <!DOCTYPE HTML> - doctype
 <html> opening html tag
 <head> metadata Javascript CSS
@@ -51,7 +58,8 @@ HTML document structure
 <body>
 <b>content</b>
 </body>
-</html>
+</html></p>
+
 <head>
 <div>title CSS JS</div>
 </head>
