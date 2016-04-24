@@ -27,21 +27,21 @@
   - references to other documents - images, videos<br>
   - links to other pages</p>
 <p>Major Pieces<br>
-  you<br>
-  computer + browser<br>
-  Internet -> HTTP -> Servers -> Internet</p>
+  - you<br>
+  - computer + browser<br>
+  - Internet -> HTTP -> Servers -> Internet</p>
 <p><b>HTML Attributes</b> multiple attributes<br>
   <tag ATTR="value">contents</tag><br>
   Anchor - <a><br>
   ex: <a href="www. .com">derp</a><br>
       Attribute  value  Contents</p>
-<p><b>Images</b> <img src="url" alt="text">
-Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)
+<p><b>Images</b> <img src="url" alt="text"> <-void tag</p>
+<p>Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)</p>
 <span>text</span> - inline <span class= >
 Inline - <a><span><br><img><strong>(bold)<em>
-<div> <div class= >
+<p><div> <div class= >
 text
-</div> block
+</div> block</p>
 HTML document structure
 <!DOCTYPE HTML> - doctype
 <html> opening html tag
