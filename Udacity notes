@@ -42,17 +42,18 @@
 
 <p>Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)</p>
 
-<span>text</span> - inline <span class= ><br>
+<p><span>text</span> - inline <span class= ></p>
 
 Inline - <a><span><br><img><strong>(bold)<em>
+
 <p><div> <div class= >
 text
 </div> block</p>
 
-<p>HTML document structure
-<!DOCTYPE HTML> - doctype
-<html> opening html tag
-<head> metadata Javascript CSS
+<p>HTML document structure<br>
+<!DOCTYPE HTML> - doctype<br>
+<html> opening html tag<br>
+<head> metadata Javascript CSS<br>
   <title>Title!</title>
 </head>
 <body>
