@@ -37,7 +37,7 @@
       Attribute  value  Contents</p>
 <p><b>Images</b> <img src="url" alt="text"> <-void tag</p>
 <p>Whitespace <br> break - inline - <b><em><img> <p>paragraph</p> - block (invisible box)</p>
-<span>text</span> - inline <span class= >
+<span>text</span> - inline <span class= ><br>
 Inline - <a><span><br><img><strong>(bold)<em>
 <p><div> <div class= >
 text
